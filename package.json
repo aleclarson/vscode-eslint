@@ -1,9 +1,9 @@
 {
 	"name": "vscode-eslint",
 	"displayName": "ESLint",
-	"description": "Integrates ESLint JavaScript into VS Code.",
+	"description": "Fork with singleLineUnderline option",
 	"version": "2.2.6",
-	"author": "Microsoft Corporation",
+	"author": "Alec Larson",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
@@ -12,7 +12,7 @@
 	"bugs": {
 		"url": "https://github.com/Microsoft/vscode-eslint/issues"
 	},
-	"publisher": "dbaeumer",
+	"publisher": "aleclarson",
 	"icon": "eslint_icon.png",
 	"categories": [
 		"Programming Languages",
